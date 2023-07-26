@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Belanosima', sans-serif;
+}
+.botonesIndex{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: black!important;
+}
+.imgLogo{
+    padding-right: 50px;
+}
+.form-select-sm{
+    font-size: 20px; 
+}
+.bx{
+    padding: 10px;
+}
+#botonCarrito{
+    background-color: #FFC950;
+}
+.me-2 {
+    margin-right: 30px !important;
+}
+#btnBuscar{
+    background-color: #E5426E !important;
+    color: white !important;
+    --bs-btn-border-color: #E5426E !important;
+}
+
+.btn-success{
+    background-color: #53399D !important;
+    border: #53399D !important;
+}
+
+.body-info{
+    display: grid;
+    grid-template-areas: 
+    "info" "botones";
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 70%;
+}
+.info{grid-area: info;
+    padding: 42px 5px;}
+.cardPrincipal{
+    display: flex;
+    top: 1px;
+    left: 47px;
+}
+.tituloInfo{
+    font-size: 22px;
+}
+
+#verCatalogo{padding: 30px; font-size: 27px;}
+#ocultarCatalogo{padding: 30px; font-size: 27px;}
+.row{padding: 5px !important;}
+.tituloFormulario{
+    background-color: #5DB8A8;
+    text-align: center;
+}
+.btn-outline-success{
+    color: #5DB8A8 !important;
+    --bs-btn-border-color: #5DB8A8  !important;
+    --bs-btn-hover-bg: black !important;
+    --bs-btn-hover-border-color: black !important;
+}
+#botonComprar{
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-left: 125px;
+    background-color: #5DB8A8;
+    border-color: #5DB8A8;
+    font-size: 23px;
+}
+.montoFinal{
+    font-size: 20px;
+    color: #FFC950;
+}
+.botonCompra{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: stretch;
+    margin: 12px;
+}
+.entradasTotal{
+    font-size: 20px;
+    color: #5DB8A8;
+}
+
+.fechaHora{
+    font-size: 38px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    background-color: gainsboro;
+}
+#loader{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    color: crimson;
+    position: relative;
+    bottom: 20px;
+}
+.text-success{
+    color: #FFC950 !important;
+    position: relative;
+    top: 33px;
+    font-style: italic;
+    font-size: 48px;
+}
+#btnToggle{
+
+    position: relative;
+    left: 1067px;
+    bottom: 288px;
+    font-size: 20px;
+
+}
+
+.botonOscuro{
+    background-color: black !important;
+    border-radius: 50px!important;
+    color: white!important;
+    padding: 17px;
+}
+.botonClaro{
+    background-color: white!important;
+    border-radius: 50px!important;
+    color: black!important;
+    padding: 17px;
+}
+
+
+.darkMode{
+    color:white;
+    background-color: black;
+}
+.darkMode .card{
+    color: black;
+}
+.darkMode .modal{
+    color: black;
+}
+
+.comprarTicketsSumar{
+    background-color: #FFC950;
+}
+.comprarTicketsRestar{
+    background-color:#E5426E;
+}
+.modal-body {
+    position: relative;
+    flex: 1 1 auto;
+    font-size: 22px;
+    display: flex;
+    padding: var(--bs-modal-padding);
+    flex-direction: column;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "entregafinal",
+  "version": "1.0.0",
+  "description": "\u0016Mi proyecto final tiene como objetivo simular un sitio web para un museo, en el que el usuario puede comprar las entradas al museo, además de presentar las obras expuestas en el museo para que el usuario pueda guardarlas en sus favoritos \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D lista de favoritos. Tambien puede ingresar sus obras a la \"\"\u001b[Dpinacoteca virtual\"; las obras pueden ser buscadas mediante una barra de busqueda y pueden ser ordenadas de diferentes formas. Además la página presenta un modo oscuro.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nélida Barón",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "luxon": "^3.3.0",
+    "sweetalert2": "^11.7.20"
+  }
+}

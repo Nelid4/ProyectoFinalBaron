@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "titulo": "La hora del almuerzo",
+        "artista": "Pio Colivadino",
+        "year": 1903,
+        "imagen": "obra1.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "La noche estrellada",
+        "artista": "Van Gogh",
+        "year": 1889,
+        "imagen": "obra2.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "La japonesa",
+        "artista": "Monet",
+        "year": 1876,
+        "imagen": "obra3.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "El Paseo",
+        "artista": "Monet",
+        "year": 1880,
+        "imagen": "obra4.jpg"
+    },
+    {
+        "id": 5,
+        "titulo": "Sin pan y sin trabajo",
+        "artista": "Ernesto de la Cárcova",
+        "year": 1894,
+        "imagen": "obra5.jpg"
+    },
+    {
+        "id": 6,
+        "titulo": "Payada en una pulpería",
+        "artista": "Carlos Morel",
+        "year": 1845,
+        "imagen": "obra6.jpg"
+    },
+    {
+        "id": 7,
+        "titulo": "Dancing Skeletons",
+        "artista": "Edward Burra",
+        "year": 1939,
+        "imagen": "obra7.jpg"
+    },
+    {
+        "id": 8,
+        "titulo": "Autorretrato frente al caballete",
+        "artista": "Sofonisba Anguissola",
+        "year": 1556,
+        "imagen": "obra8.jpg"
+    },
+    {
+        "id": 9,
+        "titulo": "Mujer saliendo del psicoanalista",
+        "artista": "Remedios Varo",
+        "year": 1960,
+        "imagen": "obra9.jpg"
+    }
+]
